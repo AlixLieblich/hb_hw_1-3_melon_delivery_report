@@ -1,5 +1,4 @@
 
-delivery_info_list = ["um-deliveries-20140519.txt", "um-deliveries-20140520.txt", "um-deliveries-20140521.txt"]
 
 def melon_report(day, info):
     """ Function which accesses a list of delivery information and prints out the details"""
